@@ -19,7 +19,7 @@
 * style.css: Handles all visual design and colors.
 * script.js: Controls the interaction logic and click limits.
 
-###3. Why Split?
+### 3. Why Split?
 * Clean Code: Makes the project easier to read and manage.
 * Independence: Styles or logic can be updated without breaking the HTML.
 * Efficiency: Encourages organized coding habits.
